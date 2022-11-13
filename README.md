@@ -1,4 +1,4 @@
-#ANÁLISE EXPLORATÓRIA UTILIZANDO PYTHON E PANDAS
+# ANÁLISE EXPLORATÓRIA UTILIZANDO PYTHON E PANDAS
 
 Instrutora: Fernanda Santos.
 Este script realiza uma análise exploratória com a base de dados 'AdventureWorks', a qual apresenta registros de vendas fictícias de produtos eletrônicos.
