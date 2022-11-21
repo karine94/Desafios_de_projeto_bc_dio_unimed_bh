@@ -28,3 +28,8 @@ Narrativa:
 - A mesma equipe avalia e executa os serviços
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+# Explorando SQL – Structured Query Language 
+
+- Refinamento do esquema de modelagem do projeto de Ecommerce;
+- Esquema lógico, queries e inserção de dados
