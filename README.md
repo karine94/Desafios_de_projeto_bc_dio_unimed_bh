@@ -33,3 +33,10 @@ Narrativa:
 
 - Refinamento do esquema de modelagem do projeto de Ecommerce;
 - Esquema lógico, queries e inserção de dados
+
+# Projeto de Transfer Learning em Python 
+
+O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB.  
+
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
+github.com/diegobrunoDIO/diegobrunoDIO/projects
