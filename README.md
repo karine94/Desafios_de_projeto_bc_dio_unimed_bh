@@ -120,3 +120,23 @@ aws dynamodb query \
     --index-name SongTitleYear-index \
     --key-condition-expression "SongTitle = :v_song and SongYear = :v_year" \
     --expression-attribute-values  '{":v_song":{"S":"Wasting Love"},":v_year":{"S":"1992"} }'
+
+# Projeto: Pacote de Processamento de Imagens
+Autora do Projeto: Karina Kato
+
+Descrição
+O pacote "image_processing-test" é usado para:
+
+Módulo "Processing":
+
+    Correspondência de histograma;
+    Similaridade estrutural;
+    Redimensionar imagem;
+    
+Módulo "Utils":
+
+    Ler imagem;
+    Salvar imagem;
+    Plotar imagem;
+    Resultado do gráfico;
+    Plotar histograma;
