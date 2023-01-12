@@ -1,5 +1,5 @@
 
-# PRIMEIRO PROJETO DE MODELAGEM DE DADOS
+# MODELAGEM DE DADOS (E-COMMERCE)
 
 
 Projeto faz parte do Desafio do Bootcamp DIO - Geração tech Unimed - BH (Ciência de dados)
